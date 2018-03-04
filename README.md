@@ -34,3 +34,7 @@ Contents:
 
 Created Sep  8 2015.
 @author: markcutkosky
+
+## JumperUtilities.py
+This is a set of functions that designed to calculate useful values in designing
+our overall jumper.
