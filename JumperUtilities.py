@@ -8,7 +8,7 @@ Utility functions for calculating the required forces of our jumper.
 
 import numpy as np
 
-def takeoffSpeed(mass, height)
+def takeoffSpeed(mass, height):
     """ Returns the speed required to reach a height
     Accepts:
         * mass - mass of object in kg
